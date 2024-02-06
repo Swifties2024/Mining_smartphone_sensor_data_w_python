@@ -7,4 +7,4 @@
 * Learn/: python stuff to analyse and model the data
 
 
-{Video of Talk on Youtube](https://www.youtube.com/watch?v=BidI8_1ikiQ)
+[Video of Talk on Youtube](https://www.youtube.com/watch?v=BidI8_1ikiQ)
